@@ -1,2 +1,10 @@
 # E-commerce-Sales-Analysis
-This project analyzes an e-commerce sales dataset to uncover actionable insights into business performance and profitability.
+## Project Background
+<br>
+##Executive Summary
+<br>
+## Summary of Insights
+<br>
+##Recommendations
+<br>
+# Technical Project Information
