@@ -1,8 +1,10 @@
 # E-commerce-Sales-Analysis
-## Project Background ##Executive Summary
+## Project Background 
+
+## Executive Summary
 
 ## Summary of Insights
-<br>
-##Recommendations
-<br>
+
+## Recommendations
+
 # Technical Project Information
