@@ -14,4 +14,11 @@ This project aims to transform the raw sales report into actionable insights by 
   + **Cancellation Rates**  
 
 ## Results
-The analysis of the e-commerce sales report revealed that the business generated a total **Gross Sales of ₹78.6M** during the period. After accounting for cancellations and returns amounting to **₹8.9M**, the **Net Sales stood at ₹69.7M**. The **Average Order Value (AOV) was 694.23 INR**, while the **cancellation rate was 11.36%**, highlighting opportunities to improve fulfillment and reduce lost revenue.
++ **Gross Sales:** ₹78.6M
++ **Cancellations & Returns:** ₹8.9M
++ **Net Sales:** ₹69.7M
++ **Average Order Value (AOV):** ₹694.23
++ **Cancellation Rate:** 11.36%
+
+These insights highlight both the revenue potential and areas where operational improvements can reduce cancellations and maximize profitability.
+  
