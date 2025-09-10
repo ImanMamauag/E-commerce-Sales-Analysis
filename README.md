@@ -3,8 +3,8 @@
 <img src="./E-commerce Sales Dashboard.PNG">
 
 
-## Dataset and Technical Information
-<p align="justify"> This [e-commerce sales dataset](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data), created by ANil through web scraping and last updated in 2022, provides a detailed view of online business performance and profitability. It contains product-level details (SKU, categories, sizes, colors), transactional information (dates, order status, quantities, gross amounts), and pricing data across multiple platforms such as Amazon, Flipkart, Myntra, and Paytm. Designed for research and analysis, the dataset enables insights into sales trends, fulfillment, cancellations, and overall profitability in the e-commerce marketplace.</p>
+## Project Background
+<p align="justify"> The E-commerce business generates a large volume of sales transactions across multiple regions and product categories, but the raw data is fragmented with varying order statuses and fulfillment outcomes. Without proper analysis, it is difficult for management to track revenue performance, cancellation trends, and customer buying behavior. This project aims to transform the raw sales report into actionable insights by creating clean metrics such as Gross Sales, Net Sales, Average Order Value, and fulfillment rates to support data-driven decision-making.</p>
 
 
 ## Objectives
@@ -45,8 +45,8 @@
 
 ## Dataset and Technical Information
 This [e-commerce sales dataset](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data), created by ANil through web scraping and last updated in 2022, provides a detailed view of online business performance and profitability. It contains product-level details (SKU, categories, sizes, colors), transactional information (dates, order status, quantities, gross amounts), and pricing data across multiple platforms such as Amazon, Flipkart, Myntra, and Paytm. Designed for research and analysis, the dataset enables insights into sales trends, fulfillment, cancellations, and overall profitability in the e-commerce marketplace.
-<br>
-For this project, I performed data [cleaning](az_sales_dataCleaning.sql) and transformation using SQL to prepare the dataset for [analysis](az_sales_eda.sql). The processed dataset was then [visualized](E-commerce Sales Dashboard.PNG) in Power BI.
+
+For this project, I performed data [cleaning](az_sales_dataCleaning.sql) and transformation using SQL to prepare the dataset for [analysis](az_sales_eda.sql). The processed dataset was then visualized in Power BI.
 
 
  
