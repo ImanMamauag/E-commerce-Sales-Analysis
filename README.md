@@ -1,4 +1,6 @@
 # E-commerce-Sales-Analysis
+add ![alt tag](E-commerce Sales Dashboard.PNG) 
+
 ## Business Task
 The E-commerce business generates a large volume of sales transactions across multiple regions and product categories, but the raw data is fragmented with varying order statuses and fulfillment outcomes. Without proper analysis, it is difficult for management to track revenue performance, cancellation trends, and customer buying behavior. 
 
