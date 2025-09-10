@@ -4,7 +4,7 @@
 
 
 ## Project Background
-<p align="justify"> The E-commerce business generates a large volume of sales transactions across multiple regions and product categories, but the raw data is fragmented with varying order statuses and fulfillment outcomes. Without proper analysis, it is difficult for management to track revenue performance, cancellation trends, and customer buying behavior. This project aims to transform the raw sales report into actionable insights by creating clean metrics such as Gross Sales, Net Sales, Average Order Value, and fulfillment rates to support data-driven decision-making.</p>
+The e-commerce business generates large volumes of sales across regions and product categories, but raw data is fragmented and inconsistent. This makes it difficult to track revenue, cancellations, and customer behavior. This project transforms the data into clean metrics—Gross Sales, Net Sales, Average Order Value, and fulfillment rates—to deliver actionable insights for better decision-making.
 
 
 ## Objectives
