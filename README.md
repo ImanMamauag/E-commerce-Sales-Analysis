@@ -3,7 +3,7 @@
 <img src="./E-commerce Sales Dashboard.PNG">
 
 
-## Dataset Description
+## Dataset and Technical Information
 <p align="justify"> This [e-commerce sales dataset](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data), created by ANil through web scraping and last updated in 2022, provides a detailed view of online business performance and profitability. It contains product-level details (SKU, categories, sizes, colors), transactional information (dates, order status, quantities, gross amounts), and pricing data across multiple platforms such as Amazon, Flipkart, Myntra, and Paytm. Designed for research and analysis, the dataset enables insights into sales trends, fulfillment, cancellations, and overall profitability in the e-commerce marketplace.</p>
 
 
@@ -43,9 +43,10 @@
 4.	**Retention Strategy** – Segment customers and roll out personalized retention campaigns to drive repeat purchases.
 
 
-
-
-
+## Dataset and Technical Information
+<p align="justify"> This [e-commerce sales dataset](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data), created by ANil through web scraping and last updated in 2022, provides a detailed view of online business performance and profitability. It contains product-level details (SKU, categories, sizes, colors), transactional information (dates, order status, quantities, gross amounts), and pricing data across multiple platforms such as Amazon, Flipkart, Myntra, and Paytm. Designed for research and analysis, the dataset enables insights into sales trends, fulfillment, cancellations, and overall profitability in the e-commerce marketplace.</p>
+<br>
+For this project, I performed data [cleaning](az_sales_dataCleaning.sql) and transformation using SQL to prepare the dataset for [analysis](az_sales_eda.sql). The processed dataset was then [visualized](E-commerce Sales Dashboard.PNG) in Power BI.
 
 
  
