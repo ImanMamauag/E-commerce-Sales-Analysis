@@ -7,15 +7,6 @@
 This [e-commerce sales dataset](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data), created by ANil through web scraping and last updated in 2022, provides a detailed view of online business performance and profitability. It contains product-level details (SKU, categories, sizes, colors), transactional information (dates, order status, quantities, gross amounts), and pricing data across multiple platforms such as Amazon, Flipkart, Myntra, and Paytm. Designed for research and analysis, the dataset enables insights into sales trends, fulfillment, cancellations, and overall profitability in the e-commerce marketplace.
 
 
-## Table of Contents
-+ [Dataset Description](## Dataset Description)
-+ Objectives
-+ Executive Summary
-+ Key Insights
-+ Recommendations
-+ Next Steps
-
-
 ## Objectives
 + Turn raw sales data into clear KPIs for tracking revenue, cancellations, and customer behavior. 
 + Highlight trends and performance drivers to guide strategies for growth and fulfillment improvement.
