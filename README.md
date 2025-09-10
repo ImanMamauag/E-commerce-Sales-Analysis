@@ -4,7 +4,7 @@
 
 
 ## Dataset Description
-This [e-commerce sales dataset](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data), created by ANil through web scraping and last updated in 2022, provides a detailed view of online business performance and profitability. It contains product-level details (SKU, categories, sizes, colors), transactional information (dates, order status, quantities, gross amounts), and pricing data across multiple platforms such as Amazon, Flipkart, Myntra, and Paytm. Designed for research and analysis, the dataset enables insights into sales trends, fulfillment, cancellations, and overall profitability in the e-commerce marketplace.
+<p align="justify"> This [e-commerce sales dataset](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data), created by ANil through web scraping and last updated in 2022, provides a detailed view of online business performance and profitability. It contains product-level details (SKU, categories, sizes, colors), transactional information (dates, order status, quantities, gross amounts), and pricing data across multiple platforms such as Amazon, Flipkart, Myntra, and Paytm. Designed for research and analysis, the dataset enables insights into sales trends, fulfillment, cancellations, and overall profitability in the e-commerce marketplace.</p>
 
 
 ## Objectives
@@ -13,7 +13,7 @@ This [e-commerce sales dataset](https://www.kaggle.com/datasets/thedevastator/un
 
 
 ## Executive Summary
-The analysis shows that while the business generated strong gross sales of ₹78.6M, cancellations and returns (₹8.9M) reduced net sales to ₹69.7M, with a cancellation rate of 11.36%. Sales are concentrated in a few categories, with “Set” accounting for nearly half of total revenue, and in a few regions such as Maharashtra, which alone contributes ~16%. To sustain growth, the business should reduce cancellations by addressing logistics and fulfillment challenges, diversify its product mix to reduce dependency on a single category, and expand sales in underperforming regions. Additionally, customer spending can be increased through product bundling, personalized offers, and loyalty programs, while retention strategies such as targeted campaigns can drive repeat orders. These actions will strengthen revenue performance, reduce leakage, and unlock new growth opportunities.
+<p align="justify"> The analysis shows that while the business generated strong **gross sales of ₹78.6M**, **cancellations and returns (₹8.9M) reduced net sales to ₹69.7M**, with a **cancellation rate of 11.36%**. **Sales are concentrated in a few categories, with “Set” accounting for nearly half of total revenue**, and **in a few regions such as Maharashtra, which alone contributes ~16%.** To sustain growth, the business should reduce cancellations by addressing logistics and fulfillment challenges, diversify its product mix to reduce dependency on a single category, and expand sales in underperforming regions. Additionally, customer spending can be increased through product bundling, personalized offers, and loyalty programs, while retention strategies such as targeted campaigns can drive repeat orders. These actions will strengthen revenue performance, reduce leakage, and unlock new growth opportunities.</p>
 
 
 ## Key Insights
