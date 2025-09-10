@@ -8,7 +8,7 @@ This [e-commerce sales dataset](https://www.kaggle.com/datasets/thedevastator/un
 
 
 ## Table of Contents
-+ Dataset Description
++ [Dataset Description](## Dataset Description)
 + Objectives
 + Executive Summary
 + Key Insights
