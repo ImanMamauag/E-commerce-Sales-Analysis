@@ -130,6 +130,16 @@ WHERE Status IN ('Shipped',
 # Insight: AOV of B2B > B2C
 
 
+# Units Per Order/Transaction
+SELECT
+SUM(Qty)/ COUNT(DISTINCT Order_ID) AS units_per_order 
+FROM az_sales_staging3 
+WHERE Status IN ('Shipped', 
+				 'Shipped - Delivered to Buyer', 
+                 'Shipped - Picked Up', 
+                 'Shipped - Out for Delivery');
+
+
 # Most popular product category per region.
 # CTE, Window Function
 WITH sales_per_region AS (
